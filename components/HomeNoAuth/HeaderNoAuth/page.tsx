@@ -14,7 +14,7 @@ const HeaderNoAuth = () => {
           alt="logoCta"
           className={styles.imgCta}
         />
-        <p>Se cadastre para ter acesso aos cursos</p>
+        <p>Cadastre-se para ter acesso aos cursos</p>
         <img
           src="homeNoAuth/logoCta.png"
           alt="logoCta"
